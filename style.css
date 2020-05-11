@@ -1,0 +1,11 @@
+body
+{
+    background: #1d1d1d;
+}
+.app
+{
+    position: absolute;
+    left: calc(50% - 401px);
+    top: calc(50% - 301px);
+    border: 1px solid;
+}
